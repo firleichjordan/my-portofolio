@@ -1,0 +1,127 @@
+.home {
+    position: relative;
+    width: 1500px;
+    height: 720px;
+    margin: auto;
+}
+
+.background_card {
+    position: absolute;
+    display: flex;
+    background-color: #1e293b;
+    border-radius: 40px;
+    width: 1100px;
+    height: 600px;
+    top: 50%;
+    left: 50%;   
+    transform: translate(-50%, -50%);
+    color: white;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.75);
+}
+
+.btn_card {
+    display: flex;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    transform: rotate(-90deg);
+    margin-top: 25%;
+    margin-left: 15px;
+}
+
+.btn {
+    border: none;
+    color: white;
+    width: 200px;
+    height: 30px;
+    padding: 10px 20px 30px 20px;
+    background-color: #1e293b;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.btn:hover {
+    background-color: rgb(0, 136, 255);
+    transition: 0.5s;
+    color: #1e293b;
+}
+
+.card {
+    display: flex;
+    position: absolute;
+    background-color: white;
+    border-radius: 40px;
+    width: 90%;
+    height: 90%;
+    margin-top: 3%;
+    margin-left: 7.5%;
+}
+
+.intro {
+    width: 65%;
+    height: 60%;
+    padding: 20px;
+    text-align: right;
+    margin: 100px auto 15px auto;
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    color: #1e293b;
+}
+
+.intro-profile {
+    width: 90%;
+    height: 90%;
+    margin: 50px auto 10px auto;
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    color: #1e293b;
+    row-gap: 20px;
+}
+
+.image-page {
+    display: block;
+    width: 40%;
+    height: 80%;
+    margin: 50px;
+}
+
+.image {
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: 15px auto 45px auto;
+    border-radius: 50%;
+    border: 5px solid #1e293b;
+    background-image: url("/public/profile.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.name {
+    text-align: center;
+    font-family: sans-serif;
+    color: #1e293b;
+}
+
+.icon {
+    display: flex;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    gap: 20px;
+}
+
+.tech {
+    display: flex;
+    margin-top: 40px;
+}
+
+.tech h3 {
+    padding-right: 20px;
+    border-right: 2px solid #1e293b;
+}
+
+.contact {
+    margin-top: 100px;
+}

@@ -1,0 +1,42 @@
+.project-page {
+    width: 1500px;
+    height: 720px;
+    margin: auto;
+}
+
+.background-card {
+    justify-content: center;
+    background-color:#1e293b;
+    width: 520px;
+    height: 500px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.project-image {
+    width: 500px;
+    height: 250px;
+    border-radius: 20px;
+    margin: 30px 10px 30px 10px;
+    transition: 0.75s;
+}
+
+.project-image:hover {
+    transform: rotate(-5deg);
+}
+
+.project-info {
+    background-color: aliceblue;
+    width: 500px;
+    height: 160px;
+    margin: 0px 10px 0px 10px;
+    overflow: auto;
+    border-radius: 10px;
+}
+
+.btnin-project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
