@@ -31,8 +31,8 @@ const Home = () => {
                             <h3>Contact : </h3>
                             <div>
                                 <a href='https://github.com/firleichjordan'><img src='github-48.png' alt='github'/></a>
-                                <a href='https://www.linkedin.com/in/jordan-sihombing-7ab171a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'><img src='/public/linkedin-48.png' alt='linkedin'/></a>
-                                <a href='https://jordanhombing.js@gmail.com'><img src='/public/gmail-48.png' alt='github'/></a>
+                                <a href='https://www.linkedin.com/in/jordan-sihombing-7ab171a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'><img src='linkedin-48.png' alt='linkedin'/></a>
+                                <a href='https://jordanhombing.js@gmail.com'><img src='gmail-48.png' alt='github'/></a>
                             </div>
                         </div>
                     </div>

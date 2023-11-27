@@ -27,19 +27,19 @@ const Profile = () => {
                         <div className="tech">
                             <h3>Tech Front-End</h3>
                             <div className="icon">
-                                <img src="/public/html-48.png" alt="html-48"/>
-                                <img src="/public/css-48.png" alt="css-48"/>
-                                <img src="/public/tailwindcss-48.png" alt="tailwindcss-48"/>
-                                <img src="/public/javascript-48.png" alt="javascript-48"/>
-                                <img src="/public/react-48.png" alt="react-48"/>
+                                <img src="html-48.png" alt="html-48"/>
+                                <img src="css-48.png" alt="css-48"/>
+                                <img src="tailwindcss-48.png" alt="tailwindcss-48"/>
+                                <img src="javascript-48.png" alt="javascript-48"/>
+                                <img src="react-48.png" alt="react-48"/>
                             </div>
                         </div>
                         <div className="tech">
                             <h3>Tech Back-End</h3>
                             <div className="icon">
-                                <img src="/public/express-js-48.jpg" alt="express-js-48"/>
-                                <img src="/public/nodejs-48.jpg" alt="node-js-48"/>
-                                <img src="/public/mysql-48.png" alt="mysql-48"/>
+                                <img src="express-js-48.png" alt="express-js-48"/>
+                                <img src="nodejs-48.png" alt="node-js-48"/>
+                                <img src="mysql-48.png" alt="mysql-48"/>
                             </div>
                         </div>
                     </div>
